@@ -8,3 +8,4 @@ matplotlib==2.0.2
 Pillow==4.3.0
 tqdm==4.17.1
 scipy==1.0.0
+bleach>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
